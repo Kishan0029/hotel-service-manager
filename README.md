@@ -1,47 +1,58 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge" />
 </div>
 
-<h1 align="center">Hotel Service Request Management Software</h1>
+<h1 align="center">HOTEL SERVICE MANAGER</h1>
 
 <p align="center">
-  <i>A streamlined solution for managing and tracking hotel service requests efficiently.</i>
+  <i>Hotel Service Request Management Software built for Regenta Resort Belgaum, a 5-star resort.</i>
 </p>
 
 <br/>
 
-## 🎯 Features
+## ðŸŽ¯ Overview
 
-- 🛎️ **Request Tracking**: Manage guest requests from creation to resolution.
-- ⚡ **Real-time Updates**: Status updates for immediate staff action.
-- 👥 **Role-based Access**: Dedicated views for administration and staff.
-- 📊 **Dashboard**: Overview of pending, active, and completed requests.
+Welcome to **hotel-service-manager**! 
+Hotel Service Request Management Software built for Regenta Resort Belgaum, a 5-star resort.
 
-## 🛠️ Tech Stack
+This project was developed with a focus on modern web standards, performance, and responsive design.
 
-- **Frontend**: React
-- **Backend**: Node.js
-- **Styling**: Modern CSS/Tailwind
+## ðŸš€ Getting Started
 
-## 🚀 Quick Start
+To get a local copy up and running, follow these steps.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Kishan0029/Hotel-Service-Request-Management-Software.git
-   ```
-2. **Install dependencies**:
-   ```bash
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine (if applicable to the stack).
+
+### Installation
+
+1. Clone the repo:
+   `sh
+   git clone https://github.com/Kishan0029/hotel-service-manager.git
+   `
+2. Navigate into the directory:
+   `sh
+   cd hotel-service-manager
+   `
+3. Install NPM packages:
+   `sh
    npm install
-   ```
-3. **Start the development server**:
-   ```bash
+   `
+4. Start the development server:
+   `sh
    npm run dev
-   ```
+   `
 
-## 🔗 Live Demo
+## ðŸ‘¨â€ðŸ’» Developer
 
-Check out the live application here: **[Hotel Service App Demo](https://hotel-fawn-omega.vercel.app)**
+**Kishan Revankar** 
+- [GitHub Profile](https://github.com/Kishan0029)
+- [Twitter/X](https://x.com/Kishan__29)
+- [LinkedIn](https://www.linkedin.com/in/kishanrevankar29/)
 
 ---
-<p align="center">Built with ❤️ by Kishan</p>
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, itâ€™s bad." - Cory House</i>
+</div>
